@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1259
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV-Reader", "TesteVitor1\CSV-Reader.csproj", "{0E6087C2-2053-436C-936B-973EA18607FE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSV-Reader", "src\CSV-Reader.csproj", "{0E6087C2-2053-436C-936B-973EA18607FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
